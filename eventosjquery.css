@@ -1,0 +1,55 @@
+
+body{
+	text-align: center;
+	font-family: helvetica;
+}
+
+.cBotones{
+	margin-top: 20px;
+	display: inline-block;
+}
+a{
+	color:#FFFFFF;
+	padding: .5em;
+	poin
+}
+
+#target{
+	margin: 1em auto;
+	height:200px;
+	width:200px;
+	transition: all .3s;
+}
+.cTarget{
+	background: #000;
+}
+
+#cBlue{
+	background-color: red;
+	color:blue;
+}
+.cBlue{
+	background: blue;
+}
+#cRed{
+	background-color: green;
+	color:red;
+}
+.cRed{
+	background: red;
+	
+}
+#cGreen{
+	background-color: blue;
+	color:green;
+}
+.cGreen{
+	background:green;
+	
+}
+#placeholder{
+	background-color: gray;
+}
+.active{
+	border: solid black 5px;
+}
